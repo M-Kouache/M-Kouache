@@ -1,12 +1,9 @@
+[![MasterHead](https://i.pinimg.com/564x/cf/4f/92/cf4f920b2b8cc74d33b38c856b1a0760.jpg)]
 
 <h1 align="center">Hi 👋, I'm Mohamed Kouache</h1>
 <h3 align="center">I'm a versatile and passionate software developer with a flair for embracing new technologies. Code is my canvas, and I believe in its transformative power. My mission is to help build cutting-edge technologies that shape the future.</h3>
 
-    <div class="reveal">
-      <div class="readme">
-        <section data-markdown="README.md" data-background-image="https://img.freepik.com/premium-vector/programming-developers-vector-seamless-pattern-internet-coding_341076-444.jpg?w=740"></section>
-      </div>
-    </div>
+
 
 - Always improving and currently learning **Software scalability**
 
