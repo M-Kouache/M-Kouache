@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Kouache</h1>
-<h3 align="center">I'm a versatile and passionate software developer with a flair for embracing new technologies. Code is my canvas, and I believe in its transformative power. My mission is to help build cutting-edge technologies that shape the future.</h3>
+<h3 align="center">I'm a versatile and passionate software developer with a flair for embracing new technologies. and I believe in its transformative power.</h3>
 
 
 
