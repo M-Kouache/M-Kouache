@@ -8,7 +8,7 @@
 
 - My projects are available at [LinkedIn](https://www.linkedin.com/in/mohamed-kouache-2378a022b/details/projects/)
 
-- Check out my articles on [LinkedIn](https://www.linkedin.com/in/mohamed-kouache-2378a022b/recent-activity/articles/)
+- Check out my articles on website [koumo.me](https://www.koumo.me/)
 
 - Contact me on **mohamedkouache.job@gmail.com**
 
