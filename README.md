@@ -4,7 +4,7 @@
 
 💻 Writting JavaScript for over 3 years, currently learning **Go**
 
-💾 My projects are available at [LinkedIn](https://www.linkedin.com/in/mohamed-kouache/details/projects/)
+💾 Projects i worked on [LinkedIn](https://www.linkedin.com/in/mohamed-kouache/details/projects/)
 
 📑 Check out my articles on [koumo.me](https://www.koumo.me/)
 
