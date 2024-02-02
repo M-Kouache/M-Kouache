@@ -1,5 +1,5 @@
 
-<h3 align="right">Hi 👋, I'm Mohamed Kouache</h3>
+<h3 align="left">Hi 👋, I'm Mohamed Kouache</h3>
 
 
 💻 Writting JavaScript for over 3 years, currently learning **Go**
