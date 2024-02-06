@@ -2,7 +2,7 @@
 <h3 align="left">Hi 👋, I'm Mohamed Kouache</h3>
 
 
-💻 Writting JavaScript for over 3 years, currently learning **Go**
+💻 Writting JavaScript for over 4 years, currently learning **Go**
 
 💾 Projects i worked on [LinkedIn](https://www.linkedin.com/in/mohamed-kouache/details/projects/)
 
