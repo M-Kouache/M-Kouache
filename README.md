@@ -2,7 +2,7 @@
 <h3 align="left">Hi 👋, I'm Mohamed Kouache</h3>
 
 
-💻 Full Stack Developer , currently learning **Go**
+💻 Software Engineer , currently learning **Go**
 
 💾 Projects i worked on [LinkedIn](https://www.linkedin.com/in/mohamed-kouache/details/projects/)
 
