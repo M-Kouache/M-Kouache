@@ -6,9 +6,9 @@
 
 💾 Projects i worked on [LinkedIn](https://www.linkedin.com/in/mohamed-kouache/details/projects/)
 
-📑 Check out my articles on [koumo.me](https://www.koumo.me/)
+📑 Check out my articles on [koumo.me](https://www.mokouache.com/)
 
-📧 Contact me on **mohamedkouache.job@gmail.com**
+📧 Contact me on **mohamedkouache27@gmail.com**
 
 
 
